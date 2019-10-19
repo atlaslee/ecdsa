@@ -1,0 +1,9 @@
+*.sublime*
+.DS_Store
+*.rdb
+dump*
+src/github.com/*
+pkg
+bin
+*.aar
+*.jar
